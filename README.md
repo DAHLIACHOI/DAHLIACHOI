@@ -14,6 +14,18 @@
  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jirasoftware&logoColor=white"> <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> <img src="https://img.shields.io/badge/swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=white">
 
 
+## 🧸 Activity
+- HDMedi Backend 인턴
+- 개발 연합 동아리 UMC 4th : Server(Spring Boot) 파트장
+- 개발 연합 동아리 UMC 3th : Server(Spring Boot) 파트장
+- 이커머스 사장님을 위한 배송 서비스 개발(해커톤) : 패키지크루
+- 시각장애인을 위한 복약 서비스 개발(해커톤) : 보약
+- 동화생성 서비스 개발(해커톤)  : 피터펜
+- 멘토멘티 연결 서비스 개발(해커톤) : 유니브링크
+- 여행 기록 서비스 개발 : 당신의 발자취
+
+
+## 💻 Projects
 
 
 
