@@ -15,7 +15,7 @@
 
 
 ## 🧸 Activity
-- HDMedi Backend 인턴
+- HDMedi. Backend 인턴
 - 개발 연합 동아리 UMC 4th : Server(Spring Boot) 파트장
 - 개발 연합 동아리 UMC 3th : Server(Spring Boot) 파트장
 - 이커머스 사장님을 위한 배송 서비스 개발(해커톤) : 패키지크루
