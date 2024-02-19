@@ -1,7 +1,7 @@
 # Welcome to Dali's Github 👋
 
 ## 👩🏻‍💻 Profile
-🏫 Hankuk University of Foreign Studies Dept. of Computer Science and Electronic Systems Engineering (2019~) <br>
+🏫 Hankuk University of Foreign Studies Dept. of Computer Science and Electronic Systems Engineering (2019.03 ~ 2024.08) <br>
 🏢 HDMedi, Backend Engineer Intern (2023.09 ~ 2023.12)
 
 
