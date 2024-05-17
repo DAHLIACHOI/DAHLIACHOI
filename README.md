@@ -30,7 +30,7 @@
 | [당신의발자취](https://github.com/DAHLIACHOI/footprint) | UMC | - | 2023 |
 | [유니브링크](https://github.com/hufs-hackathon) | Hufs Summer Hackathon | - | 2023 |
 | [보약](https://github.com/SWH-FortuneCookie) | 여성가족재단 | 대상(서울특별시장상) | 2023 |
-| [패키지크루](https://github.com/Package-Crew/Package-Crew-Backend) | 벤처스타트업아카데이해커톤 | 대상(중소기업벤처부 장관상) | 2023 |
+| [패키지크루](https://github.com/Package-Crew/Package-Crew-Backend) | 벤처스타트업아카데이해커톤 | 대상(중소벤처기업부 장관상) | 2023 |
 
 
 
