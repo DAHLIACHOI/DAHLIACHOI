@@ -3,7 +3,7 @@
 ## 👩🏻‍💻 Profile
 🏫 Hankuk University of Foreign Studies Dept. of Computer Science and Electronic Systems Engineering (2019.03 ~ 2024.08) <br>
 🏢 HDMedi, Backend Engineer Intern (2023.09 ~ 2023.12) <br>
-🏢 Shinhan Fund Partners (2024.07 ~ 2026.06)
+🏢 Shinhan Fund Partners IT (2024.07 ~ 2026.06)
 
 
 ## 📚 Languages & Skills
