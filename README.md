@@ -2,7 +2,8 @@
 
 ## 👩🏻‍💻 Profile
 🏫 Hankuk University of Foreign Studies Dept. of Computer Science and Electronic Systems Engineering (2019.03 ~ 2024.08) <br>
-🏢 HDMedi, Backend Engineer Intern (2023.09 ~ 2023.12)
+🏢 HDMedi, Backend Engineer Intern (2023.09 ~ 2023.12) <br>
+🏢 Shinhan Fund Partners (2024.07 ~ 2026.06)
 
 
 ## 📚 Languages & Skills
@@ -15,7 +16,6 @@
 
 
 ## 🧸 Activity
-- HDMedi. Backend 인턴
 - 개발 연합 동아리 UMC 4th : Server(Spring Boot) 파트장
 - 개발 연합 동아리 UMC 3th : Server(Spring Boot) 파트장
 - 이커머스 사장님을 위한 배송 서비스 개발(해커톤) : 패키지크루
